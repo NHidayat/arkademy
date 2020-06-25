@@ -7,7 +7,7 @@ arkademy.sql
 ### Halaman home/poduk :
 ![alt text](https://github.com/NHidayat/arkademy/blob/master/assets/home.png)
 
-### Tambah Data :
+### Add Data :
 ![alt text](https://github.com/NHidayat/arkademy/blob/master/assets/tambah.png)
 
 ### Edit Data :
