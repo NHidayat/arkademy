@@ -14,4 +14,4 @@ arkademy.sql
 ![alt text](https://github.com/NHidayat/arkademy/blob/master/assets/edit.png)
 
 ### Delete Data : 
-silahkan klik tombol hapus
+silahkan klik tombol hapus pada list data
